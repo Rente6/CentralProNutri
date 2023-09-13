@@ -1,0 +1,61 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+
+.CentroXY{
+  height: 100vh;
+  background-color: #ebe5ce;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.esperandomenudorafael{
+  background-color: #8D1042;
+  width: 100%;
+  position: absolute;
+  top: 0px;
+
+}
+.esperandomenudorafael2{
+  background-color: #fff;
+  width: 100%;
+  position: absolute;
+  top: 15px;
+
+}
+
+h1{
+  text-align: center ;
+  color: #8D1042;
+  font-size: 36px;
+}
+
+
+h2{
+  text-align: center ;
+  color: #8D1042;
+  font-size: 32px;
+
+}
+
+h3{
+  text-align: center ;
+  color: #640F3D;
+  font-size: 32px;
+
+}
+
+p{
+  text-align: center ;
+  color: #000;
+  font-size: 24px;
+  padding: 0px 50 px;
+}
+
+
